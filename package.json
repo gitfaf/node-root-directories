@@ -1,0 +1,26 @@
+{
+  "name": "node-root-directories",
+  "version": "1.0.0",
+  "description": "Get root directories for machine - node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitfaf/node-root-directories.git"
+  },
+  "keywords": [
+    "directories",
+    "root directories"
+  ],
+  "author": "Git Faf <git.faf@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gitfaf/node-root-directories/issues"
+  },
+  "homepage": "https://github.com/gitfaf/node-root-directories#readme",
+  "dependencies": {
+    "node-directories": "^1.0.0"
+  }
+}
