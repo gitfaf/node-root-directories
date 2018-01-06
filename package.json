@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/gitfaf/node-root-directories#readme",
   "dependencies": {
-    "node-directories": "^1.0.0"
+    "node-directories": "1.0.1"
   }
 }
