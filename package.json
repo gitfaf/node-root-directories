@@ -1,6 +1,6 @@
 {
   "name": "node-root-directories",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get root directories for machine - node module",
   "main": "index.js",
   "scripts": {

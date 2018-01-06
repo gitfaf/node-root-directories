@@ -6,7 +6,7 @@ Get root directories for machine - node module
 
 ```javascript
 
-  var rd = require('./')
+  var rd = require('node-root-directories')
 
   > rd()
   [ 'Applications',
